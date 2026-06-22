@@ -1,1 +1,0 @@
-This file implements the control logic of the Smart Hybrid Gripper using Embedded C. The code outlines the complete operational workflow, including sensor input handling, control decisions, and actuation sequences. It provides insight into the embedded system architecture and the interaction between hardware and software components.
